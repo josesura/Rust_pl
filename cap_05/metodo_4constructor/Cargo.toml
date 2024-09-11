@@ -1,0 +1,6 @@
+[package]
+name = "metodo_4constructor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
